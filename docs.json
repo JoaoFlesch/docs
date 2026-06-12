@@ -86,5 +86,9 @@
   },
   "styling": {
     "codeblocks": "dark"
+  },
+  "favicon": {
+    "light": "/images/whitefavicon.svg",
+    "dark": "/images/whitefavicon.svg"
   }
 }
