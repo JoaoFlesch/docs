@@ -30,7 +30,39 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "tabs": [
+      {
+        "tab": "Central de Ajuda",
+        "pages": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "index",
+              "quickstart"
+            ]
+          },
+          {
+            "group": "TIMES",
+            "pages": [
+              "time"
+            ]
+          },
+          {
+            "group": "MEMBROS",
+            "pages": [
+              "membros"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "ACADEMY"
+      },
+      {
+        "tab": "Doc"
+      }
+    ]
   },
   "logo": {
     "light": "/images/LogotipoPreto.svg",
