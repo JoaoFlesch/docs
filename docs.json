@@ -46,7 +46,6 @@
                 "group": "Gerenciador de Anúncios",
                 "icon": "chart-column",
                 "pages": [
-                  "entendendo-o-gerenciador-de-anuncios",
                   "meta",
                   "google",
                   "kwai",
