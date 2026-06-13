@@ -39,90 +39,100 @@
             ]
           },
           {
-            "group": "Organização",
+            "group": "Por Dentro do Trackup",
             "pages": [
-              "times",
-              "projetos"
-            ]
-          },
-          {
-            "group": "Gerenciador de anúncios",
-            "pages": [
-              "gerenciador-de-anuncios",
-              "meta",
-              "google",
-              "kwai",
-              "tiktok"
-            ]
-          },
-          {
-            "group": "Ofertas",
-            "pages": [
-              "ofertas"
-            ]
-          },
-          {
-            "group": "PAGINAS",
-            "pages": [
-              "visao-geral",
-              "pagebuilder",
-              "redirect",
-              "hospedagem",
-              "clonar"
-            ]
-          },
-          {
-            "group": "Links",
-            "pages": [
-              "overview",
-              "link-generico",
-              "link-anuncio",
-              "link-checkout",
-              "teste-a-b"
-            ]
-          },
-          {
-            "group": "ACIONADORES",
-            "pages": [
-              "visao-geral-1",
-              "eventos-padrao",
-              "eventos-personalizados"
-            ]
-          },
-          {
-            "group": "Filtros",
-            "pages": [
-              "visao-geral-2"
-            ]
-          },
-          {
-            "group": "Logs",
-            "pages": [
-              "visao-geral-3",
-              "requisiocoes",
-              "visitantes",
-              "conversoes"
-            ]
-          },
-          {
-            "group": "Integrações",
-            "pages": [
-              "pixel",
-              "fonte-de-trafego",
-              "plataforma-de-venda"
-            ]
-          },
-          {
-            "group": "CONFIGURAÇOES",
-            "pages": [
-              "dominios",
-              "geral"
+              {
+                "group": "Organização",
+                "pages": [
+                  "times",
+                  "projetos"
+                ]
+              },
+              {
+                "group": "Gerenciador de Anúncios",
+                "icon": "chart-column",
+                "pages": [
+                  "gerenciador-de-anuncios-visao-geral",
+                  "meta",
+                  "google",
+                  "kwai",
+                  "tiktok"
+                ]
+              },
+              "ofertas",
+              {
+                "group": "Páginas",
+                "icon": "file-text",
+                "pages": [
+                  "paginas-visao-geral",
+                  "redirect",
+                  "builder",
+                  "upload-html",
+                  "clonar-url"
+                ]
+              },
+              {
+                "group": "Links",
+                "icon": "link-2",
+                "pages": [
+                  "links-visao-geral",
+                  "generico",
+                  "anuncio",
+                  "checkout"
+                ]
+              },
+              "acionadores",
+              {
+                "group": "Filtros",
+                "icon": "shield-check",
+                "pages": [
+                  "filtros-visao-geral",
+                  "modo-simples",
+                  "modo-avancado"
+                ]
+              },
+              {
+                "group": "Logs",
+                "icon": "scroll-text",
+                "pages": [
+                  "requisiocoes",
+                  "visitantes",
+                  "conversoes"
+                ]
+              },
+              {
+                "group": "Integrações",
+                "icon": "plug-2",
+                "pages": [
+                  "pixels",
+                  "fontes-de-trafego",
+                  {
+                    "group": "Plataforma de Vendas",
+                    "icon": "shopping-cart",
+                    "pages": [
+                      "integracoes-plataformas-de-vendas-visao-geral",
+                      "upag",
+                      "perfect-pay"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Configurações",
+                "icon": "settings",
+                "pages": [
+                  "geral",
+                  "dominios"
+                ]
+              }
             ]
           }
-        ]
+        ],
+        "icon": "library-big"
       },
       {
-        "tab": "ACADEMY"
+        "tab": "Academy",
+        "icon": "graduation-cap"
       },
       {
         "tab": "Doc"
