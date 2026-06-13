@@ -41,8 +41,7 @@
           {
             "group": "Por Dentro do Trackup",
             "pages": [
-              "times",
-              "projetos",
+              "times-projetos",
               {
                 "group": "Gerenciador de Anúncios",
                 "icon": "chart-column",
