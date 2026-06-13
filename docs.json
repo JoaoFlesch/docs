@@ -135,7 +135,12 @@
         "icon": "graduation-cap"
       },
       {
-        "tab": "Doc"
+        "tab": "Doc",
+        "icon": "code-xml"
+      },
+      {
+        "tab": "FAQ",
+        "icon": "search"
       }
     ]
   },
