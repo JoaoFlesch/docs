@@ -47,6 +47,7 @@
                 "group": "Gerenciador de Anúncios",
                 "icon": "chart-column",
                 "pages": [
+                  "entendendo-o-gerenciador-de-anuncios",
                   "meta",
                   "google",
                   "kwai",
@@ -80,7 +81,7 @@
                 "group": "Filtros",
                 "icon": "shield-check",
                 "pages": [
-                  "como-funcionam-os-filtros",
+                  "entendendo-os-filtros",
                   "modo-simples",
                   "modo-avancado"
                 ]
@@ -104,7 +105,7 @@
                     "group": "Plataforma de Vendas",
                     "icon": "shopping-cart",
                     "pages": [
-                      "integracoes-plataformas-de-vendas-visao-geral",
+                      "integrando-suas-plataformas-de-venda",
                       "upag",
                       "perfect-pay"
                     ]
