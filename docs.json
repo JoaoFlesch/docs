@@ -31,7 +31,7 @@
         "tab": "Central de Ajuda",
         "pages": [
           {
-            "group": "Getting Started",
+            "group": "Comece Aqui",
             "pages": [
               "index",
               "quickstart",
@@ -41,18 +41,12 @@
           {
             "group": "Por Dentro do Trackup",
             "pages": [
-              {
-                "group": "Organização",
-                "pages": [
-                  "times",
-                  "projetos"
-                ]
-              },
+              "times",
+              "projetos",
               {
                 "group": "Gerenciador de Anúncios",
                 "icon": "chart-column",
                 "pages": [
-                  "gerenciador-de-anuncios-visao-geral",
                   "meta",
                   "google",
                   "kwai",
@@ -64,7 +58,7 @@
                 "group": "Páginas",
                 "icon": "file-text",
                 "pages": [
-                  "paginas-visao-geral",
+                  "configurandosuas-paginas",
                   "redirect",
                   "builder",
                   "upload-html",
@@ -75,7 +69,7 @@
                 "group": "Links",
                 "icon": "link-2",
                 "pages": [
-                  "links-visao-geral",
+                  "como-funcionam-os-links",
                   "generico",
                   "anuncio",
                   "checkout"
@@ -86,7 +80,7 @@
                 "group": "Filtros",
                 "icon": "shield-check",
                 "pages": [
-                  "filtros-visao-geral",
+                  "como-funcionam-os-filtros",
                   "modo-simples",
                   "modo-avancado"
                 ]
