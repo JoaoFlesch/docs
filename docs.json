@@ -52,7 +52,8 @@
                   "google",
                   "kwai",
                   "tiktok"
-                ]
+                ],
+                "expanded": true
               },
               "ofertas",
               {
@@ -64,7 +65,8 @@
                   "builder",
                   "upload-html",
                   "clonar-url"
-                ]
+                ],
+                "expanded": true
               },
               {
                 "group": "Links",
@@ -74,7 +76,8 @@
                   "generico",
                   "anuncio",
                   "checkout"
-                ]
+                ],
+                "expanded": true
               },
               "acionadores",
               {
@@ -84,7 +87,8 @@
                   "entendendo-os-filtros",
                   "modo-simples",
                   "modo-avancado"
-                ]
+                ],
+                "expanded": true
               },
               {
                 "group": "Logs",
@@ -93,7 +97,8 @@
                   "requisiocoes",
                   "visitantes",
                   "conversoes"
-                ]
+                ],
+                "expanded": true
               },
               {
                 "group": "Integrações",
@@ -110,7 +115,8 @@
                       "perfect-pay"
                     ]
                   }
-                ]
+                ],
+                "expanded": true
               },
               {
                 "group": "Configurações",
@@ -118,7 +124,8 @@
                 "pages": [
                   "geral",
                   "dominios"
-                ]
+                ],
+                "expanded": true
               }
             ]
           }
